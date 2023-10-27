@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# this is my first repo (dropdown)
-=======
-# this is my first repo (button)
->>>>>>> main
+# this is my first repo 
+
 WORK FLOW
 <br>
 REPO
